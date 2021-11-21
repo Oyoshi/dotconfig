@@ -1,0 +1,9 @@
+{
+	"recommendations": [
+		"CoenraadS.bracket-pair-colorizer",
+        "eamodio.gitlens",
+        "PKief.material-icon-theme",
+        "sdras.night-owl",
+        "TabNine.tabnine-vscode"
+	]
+}
